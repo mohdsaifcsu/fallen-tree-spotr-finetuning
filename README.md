@@ -7,6 +7,8 @@
 
 This folder contains my implementation for the **fallen-tree part segmentation** task using the
 **SPoTr (Self-positioning Point-based Transformer)** model.
+This project uses the SPoTr model from the paper Self-Positioning Point-Based Transformer for Point Cloud Understanding (Park et al., CVPR 2023) and the official implementation at https://github.com/mlvlab/SPoTr.
+I implemented a custom dataset loader for fallen vs. standing trees, a fine-tuning pipeline, evaluation, and prediction export scripts.
 
 The pipeline:
 
