@@ -1,5 +1,5 @@
-# Fallen Tree – SPoTr Fine-tuning (Mohd Saif – Colorado State University, Submission Date: December 7, 2025)
-## Task Assigned by Professor Da Yan and Saugat Adhikari (Indiana University Bloomington)
+# Fallen Tree – SPoTr Fine-tuning
+
 
 
 
