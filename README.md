@@ -21,6 +21,21 @@ The pipeline:
 This README records **paths, commands, and output formats** so the experiment is fully reproducible.
 
 ---
+## Project Structure
+
+```bash
+spotr-fallen-tree-part-segmentation/
+├── README.md                     
+├── fallen_tree_spotr_train.py
+├── fallen_tree_spotr_eval.py
+├── fallen_tree_spotr_export_preds.py
+├── cfgs/
+│   └── shapenetpart/
+│       └── spotr.yaml            
+├── requirements.txt              
+└── .gitignore                    
+```
+---
 
 ## 2. Location & Environment
 
